@@ -10,7 +10,7 @@ import RaiseIssues from './pages/RaiseIssues.jsx'
 import Employment from './pages/Employment.jsx'
 import AboutParty from './pages/AboutParty.jsx'
 import Candidates from './pages/Candidates.jsx'
-import ElectionGuarantees from './pages/Electionguarantees.jsx'
+import ElectionGuarantees from './pages/ElectionGuarantees.jsx'
 import JoinUs from './pages/JoinUs.jsx'
 
 import ScrollReveal from './components/ScrollReveal.jsx'
